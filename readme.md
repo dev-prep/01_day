@@ -2,9 +2,9 @@
 
 ## Topics
 
-Development Environment  
-Git & GitHub  
-HTML
+- Development Environment  
+- Git & GitHub  
+- HTML
 
 ## Takeaways
 
