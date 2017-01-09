@@ -112,7 +112,7 @@ Making a website using only Terminal:
 
 `$ open index.html /Applications/Google\ Chrome.app/`
 
-`$ open /Applications/Sublime\ Text.app/`
+`$ open index.html -a /Applications/Sublime\ Text.app/`
 
 Let's remove it
 
